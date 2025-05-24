@@ -1,6 +1,5 @@
 # Dream11 Prediction System 🏏🏀⚽
 
-![Project Banner](https://via.placeholder.com/800x200.png?text=Dream11+Prediction+System) <!-- Replace with actual banner -->
 
 A data-driven prediction system for fantasy sports enthusiasts to optimize Dream11 team selections. Leverages statistical analysis, machine learning, and real-time data to recommend winning combinations of players for cricket, football, and basketball matches.
 
